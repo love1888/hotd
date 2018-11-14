@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 12345
+=======
+>>>>>>> parent of adf7b1c... add text
